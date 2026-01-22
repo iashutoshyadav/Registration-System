@@ -17,7 +17,7 @@ You can open `index.html` directly in your browser, or serve it using the includ
 ```bash
 npm start
 ```
-Access at: http://127.0.0.1:8080
+Access at: http://127.0.0.1:5500/index.html
 
 ### 2. Automation Tests
 To run the automated test suite (Negative, Positive, and Logic flows):
